@@ -1,6 +1,4 @@
-/**
- * Created by Sergio Cuevas on 05/10/2016.
- */
+
 public class MainTaller {
     public static void main(String[] args) {
         Persona jose = new Persona("39425364H", "111111111", "Jose", "Tomás", 35, 45000.00);
