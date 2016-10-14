@@ -1,6 +1,4 @@
-/**
- * Created by Sergio Cuevas on 05/10/2016.
- */
+
 public class MainVehiculos {
     public static void main(String[] args) {
         Coche Jaguar = new Coche("1234ENG", "Jaguar", "TheRoadIsYours", 200000);
