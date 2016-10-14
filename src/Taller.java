@@ -1,6 +1,4 @@
-/**
- * Created by Sergio Cuevas on 05/10/2016.
- */
+
 import java.util.Comparator;
 import java.util.Map;
 import java.util.Set;
