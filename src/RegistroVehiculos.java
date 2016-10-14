@@ -1,6 +1,4 @@
-/**
- * Created by Sergio Cuevas on 05/10/2016.
- */
+
 
 import java.util.*;
 import java.util.stream.Collectors;
